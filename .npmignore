@@ -1,0 +1,8 @@
+*
+!dist/**
+!src/lambda/dist/**
+!CHANGELOG.md
+!LICENSE
+!README.md
+!package.json
+dist/tsconfig.tsbuildinfo

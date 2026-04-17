@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>@cxbuilder/google-authorizer integ test</title>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, sans-serif;
+        max-width: 40rem;
+        margin: 4rem auto;
+        padding: 0 1.5rem;
+        line-height: 1.5;
+      }
+      code {
+        background: #f4f4f4;
+        padding: 0.1rem 0.3rem;
+        border-radius: 0.2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello from @cxbuilder/google-authorizer</h1>
+    <p>
+      If you can see this page, you're authenticated via Google OAuth and the
+      <code>TOKEN</code> session cookie is valid.
+    </p>
+    <p>
+      Check browser devtools &rarr; Application &rarr; Cookies to confirm the
+      <code>TOKEN</code> cookie is <strong>HttpOnly</strong>, <strong>Secure</strong>, and
+      has <code>SameSite=Lax</code>.
+    </p>
+  </body>
+</html>

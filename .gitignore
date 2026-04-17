@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-test
+src/lambda/dist
+*.tsbuildinfo
+
+# CDK
+.cdk.staging
+cdk.out
+cdk.context.json
+
+# Editor
+.vscode
+.idea
+**/.DS_Store
