@@ -525,6 +525,10 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). The package
 uses plain TypeScript (no JSII) and publishes to npmjs.org via GitHub Actions;
 pushing a version bump to `main` publishes automatically.
 
+## About
+
+Built and maintained by [CXBuilder](https://cxbuilder.ai), an AWS Advanced Tier partner that designs, builds and operates Amazon Connect contact centers on AWS.
+
 ## License
 
 MIT-0. Originally forked from
