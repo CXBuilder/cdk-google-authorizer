@@ -6,7 +6,7 @@
   "author": {
     "name": "CXBuilder",
     "email": "ivan@cxbuilder.ai",
-    "url": "https://www.cxbuilder.ai"
+    "url": "https://cxbuilder.ai"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/cxbuilder/cdk-google-authorizer/issues"
   },
-  "homepage": "https://github.com/cxbuilder/cdk-google-authorizer#readme",
+  "homepage": "https://cxbuilder.ai",
   "keywords": [
     "aws",
     "cdk",
